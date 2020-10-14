@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "RESTful wrapper to memtier_benchmark (A memcache/redis NoSQL traffic generator and performance benchmarking tool. ) in a docker container.",
   "main": "index.js",
+  "homepage": "https://github.com/pafmon/memtier-benchmark-api",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
